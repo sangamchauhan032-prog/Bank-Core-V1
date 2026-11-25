@@ -1,0 +1,10 @@
+
+# Build files
+build/
+
+# VS Code settings
+.vscode/
+
+# SQLite database files
+database/*.db
+database/*.db-journal
